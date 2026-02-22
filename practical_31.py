@@ -1,5 +1,5 @@
 # Inverted Right Half Pyramid
-
+# Updated by Dhruv
 rows = 5
 
 for i in range(rows, 0, -1):
