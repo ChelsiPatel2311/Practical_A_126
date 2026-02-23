@@ -10,3 +10,8 @@ for i in range(1, rows + 1):
         print("* ", end="")
     
     print()
+# Practical 4B
+for i in range(5, 0, -1):        
+    for j in range(i):           
+        print(chr(65 + j), end=" ")
+    print()                      
